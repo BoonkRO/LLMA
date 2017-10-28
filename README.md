@@ -13,8 +13,10 @@ Películas mes de Noviembre
 ~~~
 
 ### Estrenos mes de Noviembre:
+
 - **American Assassin**
 <img src ="http://cdn1-www.comingsoon.net/assets/uploads/gallery/american-assassin/aacp_01.jpg" width="500" height="250" />
+    
     - 3 de Noviembre
     - Acción
     - Sinopsis:
@@ -22,6 +24,7 @@ Películas mes de Noviembre
 
 - **Enganchados a la muerte**
 <img src="https://i.ytimg.com/vi/R0tiHmyrX9M/maxresdefault.jpg" width="500" height="250" />
+    
     - 3 de Noviembre
     - Terror
     - Sinopsis:
@@ -29,6 +32,7 @@ Películas mes de Noviembre
         
 - **Oro**
 <img src="https://noescinetodoloquereluce.com/wp-content/uploads/2017/07/Oro-teaser-poster.jpg" width="250" height="300" />
+    
     - 10 de Noviembre
     - Aventura, Drama, Histórico
     - Sinopsis:
@@ -36,14 +40,15 @@ Películas mes de Noviembre
         
 - **La liga de la justicia**
 <img src="https://i.ytimg.com/vi/eaal9HyyIMk/maxresdefault.jpg" width="600" height="300" />
+    
     - 17 de Noviembre
     - Aventuras
     - Sinopsis:
-        - Impulsado por su fe recuperada en la humanidad e inspirado en el acto desinteresado de *Superman el hombre de acero*, Bruce Wayne recluta a su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor. 
-        Juntos, Batman y Wonder Woman *(La mujer Maravilla)* trabajan rápidamente para encontrar y reclutar a **un equipo de metahumanos** para enfrentarse a esta amenaza recién llegada. Pero a pesar de la formación de esta liga sin precedentes de héroes **-Batman, Wonder Woman, Aquaman, Cyborg y Flash-**, puede que sea ya demasiado tarde para salvar al planeta de un asalto de proporciones catastróficas.
+        - Impulsado por su fe recuperada en la humanidad e inspirado en el acto desinteresado de *Superman el hombre de acero*, Bruce Wayne recluta a su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor. Juntos, Batman y Wonder Woman *(La mujer Maravilla)* trabajan rápidamente para encontrar y reclutar a **un equipo de metahumanos** para enfrentarse a esta amenaza recién llegada. Pero a pesar de la formación de esta liga sin precedentes de héroes **-Batman, Wonder Woman, Aquaman, Cyborg y Flash-**, puede que sea ya demasiado tarde para salvar al planeta de un asalto de proporciones catastróficas.
         
 - **Asesinato en el Orient Express**
 <img src="https://pics.filmaffinity.com/murder_on_the_orient_express-328389244-large.jpg" width="250" height="300" />
+    
     - 24 de Noviembre
     - Thriller
     - Sinopsis:
